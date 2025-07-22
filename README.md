@@ -22,7 +22,9 @@
 
 
 🌍 Let’s Connect
-<p> <a href="https://www.linkedin.com/in/sahil-chandrani" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:sahilchandrani123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /> </a> </p>
+<p> <a href="https://www.linkedin.com/in/sahilchandrani" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:sahilchandrani123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /> </a> </p>
+
+
 🤝 Open for Opportunities
 If you're working on a dashboard project, need help analyzing data, or want to collaborate on anything related to Power BI or analytics — I’d love to connect!
 I’m actively looking for internships, freelance projects, and real-world learning experiences.
