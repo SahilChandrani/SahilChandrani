@@ -9,7 +9,7 @@
 
 ### 🧭 About Me
 
-🎓 A **Bachelor of Computer Applications (BCA)** graduate from **Bhakt Kavi Narisnh Mehta University**, Junagadh.   
+🎓 A **Bachelor of Computer Applications (BCA)** graduate from **Bhakt Kavi Narsinh Mehta University**, Junagadh.   
 💻 Passionate about **data analytics**, **dashboards**, and turning data into impactful stories.  
 📈 Skilled in **Power BI**, **Excel**, **SQL**, and learning **Python** & **Data Science Tools**.  
 🌟 On a mission to become a **professional data analyst** who creates real business value.  
